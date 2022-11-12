@@ -27,7 +27,7 @@ import javax.swing.JButton;
 public class BigDungeon extends Canvas implements Runnable
 {
     private boolean isRunning = false;
-
+e
     private Thread thread;
 
     private int ticks;
